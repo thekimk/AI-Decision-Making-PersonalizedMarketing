@@ -4,7 +4,7 @@
   
 - **테마:** 한빛+ AI 의사결정 - 데이터로 나를 혁신하기
 
-- **강의명:** AI로 타겟 고객을 예측하고 성공을 이끌다 (AI 기반 개인화 마케팅 전략 및 실행)
+- **강의명:** AI로 타겟 고객을 예측하고 성공을 이끌다 ('생성형 AI 기반 개인화 마케팅 전략 및 실행')
 
 - **교재링크:** [AI의사결정](https://smartstore.naver.com/aladinstores/products/12931036868?NaPm=ct%3Dmkghzj88%7Cci%3Ddb90bb0b1f28081703dff95f1beeffcc7f279785%7Ctr%3Dboksl1%7Csn%3D4399901%7Chk%3D003c8087d9aa4174b56f5044bd7eab09e21e1fbf&nl-au=fe240b50ce354bd59bee957538e14f19)
   > <p float="left">
